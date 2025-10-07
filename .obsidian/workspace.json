@@ -11,14 +11,10 @@
             "id": "50d69c39b611b77a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "create a link.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "create a link"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "create a link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for create a link"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "create a link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from create a link"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "create a link.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of create a link"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -169,9 +163,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "50d69c39b611b77a",
+  "active": "7fb4cd3b20f1e568",
   "lastOpenFiles": [
-    "Welcome.md",
-    "create a link.md"
+    "202509-202512/0. 연구",
+    "202509-202512/0. 딥러닝 공부",
+    "202509-202512/0. 논문 리딩",
+    "202509-202512",
+    "create a link.md",
+    "Welcome.md"
   ]
 }
